@@ -1,0 +1,41 @@
+img{
+    padding-top: 200px;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    border: 3px;
+}
+
+h1{
+     width: 20%;
+     margin-left: auto;
+     margin-right: auto;
+     display: flex; 
+     font-size: 30;
+     font-display: 20%;
+     border: solid;
+     border-color: aqua;
+     font-family: 'Times New Roman';
+
+}
+
+p{
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    border: solid; 
+    border-color: aqua;
+    font-family:'Times New Roman';
+}
+.div3{
+    width: 50%;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    border: 3px;
+    top: 60%;
+    left: 20%;
+}
